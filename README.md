@@ -1,4 +1,4 @@
-# DNN simple experiments
+# DNN Simple Experiments
 
 This code repository comprises a series of fundamental Deep Neural Network (DNN) experiments designed to assist you in comprehending and mastering the basic concepts of deep learning. Additionally, we have also verified two crucial phenomena: the Frequency Principle and the Condensation Phenomenon.
 
